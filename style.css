@@ -1,0 +1,47 @@
+@import url('https://fonts.googleapis.com/css2?family=Fredoka+One&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@100&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@100&display=swap');
+body {
+    background-image: url('photo/background2.jpg');
+    background-size: 100%;
+    background-repeat: no-repeat;
+}
+.welcome {
+    font-family: 'Fredoka One',
+    cursive;
+    font-size: 70px;
+    text-align: center;
+    margin-top: 250px;
+    margin-bottom: 0px;
+    color: rgb(131, 49, 131);
+}
+h2 {
+    font-family: 'Fredoka One',
+    cursive;
+    text-align: center;
+    font-size: 40px;
+    color: rgb(131, 49, 131);
+}
+#text1 {
+}
+#text2 {
+    margin-top: 0px;
+    line-height: 0px;
+}
+a {
+    text-decoration: none;
+    color: black;
+    font-family: 'Roboto',
+    sans-serif;
+    margin: 0 20px;
+    font-size: 25px;
+}
+nav {
+    position: absolute;
+    top: 5%;
+    right: 10%;
+}
+
+img {
+    margin-left: 10px;
+}
